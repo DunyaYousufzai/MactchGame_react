@@ -1,0 +1,38 @@
+h1 {
+  color: black;
+  font-weight: bold;
+}
+
+.div1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  
+}
+
+.div3 {
+  background-color: rgb(238, 238, 238);
+  width: 400px;
+  height: 350px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.div4 {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 2px;
+  width: 395px;
+  padding-top: 10px;
+}
+
+p {
+  font-weight: bold;
+  color: blueviolet;
+}
